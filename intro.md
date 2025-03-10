@@ -21,4 +21,10 @@ firmware on our SAM4S target with CW-Husky. Many of the things taught here are
 applicable to different setups, but if you want things to run exactly as they
 did for us to generate the outputs you see here, that's what we used.
 
+This site is built with Jupyterbook, which renders notebooks very nicely, so
+it may not be immediately obvious which tip & trick entry is a notebook. At
+the very top of each page there is a download button; if it shows a `.ipynb`
+option, then click on it to download that page's notebook.
+
+If there is no `.ipynb` option, there there is no notebook available.
 
