@@ -53,6 +53,6 @@ some guesses.
 
 [^1]: Which you might! For example, you can an open-source soft-core RISC-V
   processor on an FPGA target board, such as the [lowRISC Ibex core that we
-  support](https://rtfm.newae.com/Targets/UFO%20Targets/CW312T-XC7A35T/#1-ibex).
+  support](ibex).
 
 
